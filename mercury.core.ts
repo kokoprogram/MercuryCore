@@ -1,8 +1,9 @@
 // Configuration file for Mercury Core. Hover over a property to see its description!
 // If you're running in production, you'll need to rebuild Mercury Core to apply changes.
+// NOTE TO SELF : change rccserviceproxyurl
 
 export default {
-	Name: "Mercury",
+	Name: "Pristine",
 	Domain: "localhost:5173",
 	DatabaseURL: "http://localhost:8000",
 	RCCServiceProxyURL: "http://localhost:64990",
