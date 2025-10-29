@@ -2,7 +2,7 @@
 // If you're running in production, you'll need to rebuild Mercury Core to apply changes.
 
 export default {
-	Name: "Mercury",
+	Name: "Pristine",
 	Domain: "mercs.dev",
 	DatabaseURL: "http://localhost:8000",
 	RCCServiceProxyURL: "http://localhost:64990",
